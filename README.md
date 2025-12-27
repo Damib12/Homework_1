@@ -8,4 +8,4 @@ Because the original Peru file exceeded GitHub’s 25MB size limit, the dataset 
 to include only DEPARTAMENTO = LIMA, following the assignment instructions.
 
 ## Google Colab Notebook
-https://colab.research.google.com/drive/PASTE_YOUR_COLAB_LINK_HERE
+https://colab.research.google.com/drive/1ym0ju7TyxPy8r5ZQ29C65hhXfwWQUsAl?usp=sharing
